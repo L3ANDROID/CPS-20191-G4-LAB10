@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: Pamela
 Build-Jdk: 1.8.0_161
+=======
+Built-By: HOME
+Build-Jdk: 1.8.0_201
+>>>>>>> 517f656a5b5eae19a10a4dd66ed3b7dca916acaa
 Created-By: Maven Integration for Eclipse
 
