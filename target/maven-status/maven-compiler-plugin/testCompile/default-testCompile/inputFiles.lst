@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\Pamela\git\CPS-20191-G4-LAB10\src\test\java\com\tecsup\lab10\controlador\SumaTest.java
 C:\Users\Pamela\git\CPS-20191-G4-LAB10\src\test\java\com\tecsup\lab10\controlador\AppTest.java
 =======
 C:\Users\HOME\git\CPS-20191-G4-LAB10\src\test\java\com\tecsup\lab10\controlador\AppTest.java
 C:\Users\HOME\git\CPS-20191-G4-LAB10\src\test\java\com\tecsup\lab10\controlador\RestaTest.java
 >>>>>>> refs/heads/branch2
+=======
+C:\Users\LeandroGabriel\Documents\workspace-spring-tool-suite-4-4.2.1.RELEASE\CPS-20191-G4-LAB10\src\test\java\com\tecsup\lab10\controlador\MultiplicacionTest.java
+C:\Users\LeandroGabriel\Documents\workspace-spring-tool-suite-4-4.2.1.RELEASE\CPS-20191-G4-LAB10\src\test\java\com\tecsup\lab10\controlador\AppTest.java
+>>>>>>> refs/heads/branch3
